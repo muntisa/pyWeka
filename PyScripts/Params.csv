@@ -1,0 +1,22 @@
+Parameters for Weka script,,,
+,,,
+Input Files,,,
+1,Input File=,ds.csv,* File to be processed (ARFF/CSV)
+2,Attributes=,_Attributes.csv,* List of attribute combinations
+3,Classifier=,_Classifiers4OrigData.txt,* List of Weka classifiers + Weka parameters
+4,Path to Results=,Results,* Folder for result files
+Conversion,,,
+5,CSV to ARFF=,Y,*Conversion of CSV input file to ARFF (Y/N)
+6,Normalise=,Y,* Normalise the input file (Y/N)
+7,Standardise=,Y,* Standardise the input file (Y/N)
+8,Use original input=,N,* Use the original input too (Y/N) DON'T USE IT!
+Class Filter,,,
+9,2 Class Filter=,N,* Filter for 2 classes (Y/N)
+10,Class Pairs=,Class1-Class0,* Pairs of classes
+Attribute Filter,,,
+11,Attribute Variations=,Y,* Generate ARFFs with specific attribute + list of files (use Attributes file)
+Run Calculations,,,
+12,Run Weka=,Y,* Use the Classifier file
+Results,,,
+13,Get Results=,Y,* Get the results
+14,Classification Precision=,0.7:0.8:0.9,* List with the target models
