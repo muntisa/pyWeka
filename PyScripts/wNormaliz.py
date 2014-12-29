@@ -7,6 +7,12 @@
 # e.g., with scale = 2.0 and translation = -1.0 you get values in the range [-1,+1].
 # http://weka.sourceforge.net/doc.dev/weka/filters/unsupervised/attribute/Normalize.html
 
+#------------------------------------------------
+# Cristian R Munteanu
+# University of A Coruna
+# muntisa@gmail.com
+#------------------------------------------------
+
 import os, sys
 
 

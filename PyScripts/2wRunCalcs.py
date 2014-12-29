@@ -1,6 +1,11 @@
 # run Weka calculations using 2 inputs:
 # List of Arff files: _ListArffInputs.txt
 # List of commands: _ListWekaComNoNormal.txt
+#------------------------------------------------
+# Cristian R Munteanu
+# University of A Coruna
+# muntisa@gmail.com
+#------------------------------------------------
 
 import os, sys
 

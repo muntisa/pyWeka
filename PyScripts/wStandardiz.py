@@ -3,6 +3,12 @@
 # (apart from the class attribute, if set).
 # http://weka.sourceforge.net/doc.dev/weka/filters/unsupervised/attribute/Standardize.html
 
+#------------------------------------------------
+# Cristian R Munteanu
+# University of A Coruna
+# muntisa@gmail.com
+#------------------------------------------------
+
 import os, sys
 
 #--------------------------------------

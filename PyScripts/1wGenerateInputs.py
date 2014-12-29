@@ -1,5 +1,10 @@
 # crete ARFF input files and the list of them
 # by removing attributes from a list
+#------------------------------------------------
+# Cristian R Munteanu
+# University of A Coruna
+# muntisa@gmail.com
+#------------------------------------------------
 
 # Inputs:
 # 1) ARFF with all the attributes

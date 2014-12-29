@@ -2,6 +2,11 @@
 # YOU NEED TO REMOVE other classes manually in the line of class definition!!!!!
 # input: ARFF file to filter, Class 1, Class 2
 # output: 2 classes ARFF with the name including both classes
+#------------------------------------------------
+# Cristian R Munteanu
+# University of A Coruna
+# muntisa@gmail.com
+#------------------------------------------------
 
 import os, sys
 

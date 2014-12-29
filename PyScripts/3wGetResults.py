@@ -3,6 +3,12 @@
 # List of commands: _ListWekaComNoNormal.txt
 # write a LOG file
 
+#------------------------------------------------
+# Cristian R Munteanu
+# University of A Coruna
+# muntisa@gmail.com
+#------------------------------------------------
+
 import os, sys
 
 #-----------------------------------------------------------------------------------------------------------------------

@@ -2,6 +2,11 @@
 # (last column = classs)
 # input: CSV file name
 # output : ARFF file with the same name
+#------------------------------------------------
+# Cristian R Munteanu
+# University of A Coruna
+# muntisa@gmail.com
+#------------------------------------------------
 
 import os, sys
 

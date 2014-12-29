@@ -1,6 +1,10 @@
 # Run all the scripts to obtain Weka classification models
 # using a CSV parameter file
 #------------------------------------------------
+# Cristian R Munteanu
+# University of A Coruna
+# muntisa@gmail.com
+#------------------------------------------------
 
 import os, sys
 import time, datetime
