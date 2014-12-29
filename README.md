@@ -8,3 +8,6 @@ Use \_Run\_pyWeka.py with Params.csv to run Weka classifiers defined in \_Classi
 
 
 \_Run\_pyWeka.py runs all the other Python scripts. Params.csv defines all the parameters for the calculation such as output folder, initial dataset file, dataset scalling, dataset conversion (CSV to ARFF), class filters, output the results using classification cutoffs, etc.
+
+
+Developed at University of A Coruna, Spain
